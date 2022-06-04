@@ -10,3 +10,5 @@ https://docs.aws.amazon.com/cdk/
 AWS CDK Python reference:  
 https://docs.aws.amazon.com/cdk/api/v2/python/index.html
 
+AWS CDK Python libraries:  
+https://pypi.org/user/aws-cdk/
