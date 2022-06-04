@@ -21,3 +21,13 @@ https://github.com/aws-samples/aws-cdk-examples
 
 CDK Constructs:  
 https://constructs.dev/
+
+CDK Patterns:  
+https://cdkpatterns.com/
+
+CDK blogs, videos and educational content:  
+https://cdk.dev/
+
+CDK for Kubernetes:  
+https://cdk8s.io/
+
