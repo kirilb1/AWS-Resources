@@ -1,14 +1,23 @@
 
 ## List of AWS CDK Resources
 
-AWS CDK open-source projects, guides, blogs and other resources:  
+CDK open-source projects, guides, blogs and other resources:  
 https://github.com/kolomied/awesome-cdk
 
-Official AWS CDK Documnetation:  
+Official CDK Documnetation:  
 https://docs.aws.amazon.com/cdk/
 
-AWS CDK Python reference:  
+CDK Python reference:  
 https://docs.aws.amazon.com/cdk/api/v2/python/index.html
 
-AWS CDK Python libraries:  
+CDK Python libraries:  
 https://pypi.org/user/aws-cdk/
+
+Getting started with CDK:  
+https://cdkworkshop.com/
+
+CDK Sample Projects:  
+https://github.com/aws-samples/aws-cdk-examples
+
+CDK Constructs:  
+https://constructs.dev/
